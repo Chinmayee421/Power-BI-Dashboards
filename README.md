@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboards Collection
 
-This repository contains a collection of Power BI dashboards created for various domains such as healthcare, sales.
+This repository contains a collection of Power BI dashboards created for various domains.
 
 ## 🧾 Available Dashboards
 
