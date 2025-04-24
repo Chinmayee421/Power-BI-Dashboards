@@ -12,3 +12,6 @@ A dashboard for tracking sales performance, product trends, and regional revenue
 
 ### 3. 🎬 [IMDB Movie Analysis]
 A dashboard that explores IMDB data for movies released in 1995 and 1996. It analyzes trends in genres, languages, voting behavior, and production countries.
+
+### 4. 📊 [Employee Attrition Analysis]
+A dashboard that visualizes and analyzes key factors influencing employee attrition such as job satisfaction, work-life balance, department, and marital status.
